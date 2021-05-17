@@ -169,12 +169,12 @@ https://templatemo.com/tm-526-vanilla
                             <div class="testimonials-item">
                                 <a><img src="img/23.jpg" alt=""></a>
                                 <div class="text-content">
-                                    <h4>Caixa 250g
+                                    <h4>Caixa 500g
                                     
                                     </h4>
-                                    <span>20,00€</span>
+                                    <span>00,00€</span>
                                     <div class="primary-button-2">
-                                        <a href="#our-story"">Encomende já</a>
+                                        <a href="#our-story">Encomende já</a>
                                     </div>
                                 </div>
                             </div>
@@ -183,10 +183,10 @@ https://templatemo.com/tm-526-vanilla
                             <div class="testimonials-item">
                                 <a><img src="img/20.jpg" alt=""></a>
                                 <div class="text-content">
-                                    <h4>Caixa 500g
+                                    <h4>Caixa 1kg
                                     
                                     </h4>
-                                    <span>35,00€</span>
+                                    <span>00,00€</span>
                                     <div class="primary-button-2">
                                     <a href="#our-story">Encomende já</a>
                                     </div>
